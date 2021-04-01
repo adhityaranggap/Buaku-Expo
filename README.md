@@ -1,8 +1,6 @@
 # My Campus Assignments Project
 
 This repo is proudly sponsored by:
-
-  <img src="https://github.com/oklays/okky-mobile-apps-uas1/blob/main/assets/icon.png" width="230"><br />
   React Native Apps.
 
 ## How to use?
@@ -34,14 +32,7 @@ make sure you are in a wifi / hotspot network that is connected to your computer
 
 4. Scan barcode with expo client on your Android device, on ios just click link on tab "Recently In Development"
 
-## Preview
 
-![homescreen](https://github.com/oklays/okky-mobile-apps-uas1/blob/main/screenshoots/Board.png)
-
-## Support
-
-In case of any questions or problems, please contact me at:
-[okkyalwan7@gmail.com](mailto:okkyalwan7@gmail.com)
 
 ### Happy Coding 🚀
 # Buaku-Expo
